@@ -1,4 +1,4 @@
-# 🖤 Gothic Crush Website
+# For You Website
 
 A dramatic, chaotic, emotionally dangerous love letter disguised as a website.
 
